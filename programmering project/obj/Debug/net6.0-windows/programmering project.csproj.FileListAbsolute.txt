@@ -1,0 +1,18 @@
+C:\Users\Admin\source\repos\programmering project\programmering project\bin\Debug\net6.0-windows\programmering project.exe
+C:\Users\Admin\source\repos\programmering project\programmering project\bin\Debug\net6.0-windows\programmering project.deps.json
+C:\Users\Admin\source\repos\programmering project\programmering project\bin\Debug\net6.0-windows\programmering project.runtimeconfig.json
+C:\Users\Admin\source\repos\programmering project\programmering project\bin\Debug\net6.0-windows\programmering project.dll
+C:\Users\Admin\source\repos\programmering project\programmering project\bin\Debug\net6.0-windows\programmering project.pdb
+C:\Users\Admin\source\repos\programmering project\programmering project\obj\Debug\net6.0-windows\programmering project.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\programmering project\programmering project\obj\Debug\net6.0-windows\programmering_project.Form1.resources
+C:\Users\Admin\source\repos\programmering project\programmering project\obj\Debug\net6.0-windows\programmering_project.Properties.Resources.resources
+C:\Users\Admin\source\repos\programmering project\programmering project\obj\Debug\net6.0-windows\programmering project.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\programmering project\programmering project\obj\Debug\net6.0-windows\programmering project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\programmering project\programmering project\obj\Debug\net6.0-windows\programmering project.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\programmering project\programmering project\obj\Debug\net6.0-windows\programmering project.AssemblyInfo.cs
+C:\Users\Admin\source\repos\programmering project\programmering project\obj\Debug\net6.0-windows\programmering project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\programmering project\programmering project\obj\Debug\net6.0-windows\programmering project.dll
+C:\Users\Admin\source\repos\programmering project\programmering project\obj\Debug\net6.0-windows\refint\programmering project.dll
+C:\Users\Admin\source\repos\programmering project\programmering project\obj\Debug\net6.0-windows\programmering project.pdb
+C:\Users\Admin\source\repos\programmering project\programmering project\obj\Debug\net6.0-windows\programmering project.genruntimeconfig.cache
+C:\Users\Admin\source\repos\programmering project\programmering project\obj\Debug\net6.0-windows\ref\programmering project.dll
